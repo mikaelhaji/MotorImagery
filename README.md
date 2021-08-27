@@ -1,3 +1,7 @@
+<img width="525" alt="Screen Shot 2021-07-31 at 11 32 20 PM" src="https://user-images.githubusercontent.com/68840767/131070057-ef1b89cc-f6a8-4d97-bef8-689ee768789d.png">
+
+
+
 # **Abstract**
 
 One of neuroscience's most important objectives in recent decades has been to rehabilitate people who no longer have a functioning connection between their mind and their body. A brain computer interface (BCI) based on motor imagery can detect the EEG patterns of various imagined motions, such as right or left hand movement. It allows for entirely non-muscular communication.
@@ -33,7 +37,8 @@ Oftentimes, electrodes are ideally positioned according to the globally recognis
 
 Below are the exact electrode positions used for the study:
 
-<img width="692" alt="Screen Shot 2021-07-31 at 11 23 38 PM" src="https://user-images.githubusercontent.com/68840767/131069939-ff01402f-ce9b-4ec2-a222-86ec3b9ed9fb.png">
+<img width="525" alt="Screen Shot 2021-07-31 at 11 32 20 PM" src="https://user-images.githubusercontent.com/68840767/131070057-ef1b89cc-f6a8-4d97-bef8-689ee768789d.png">
+
 
 ## **Experimental Setup and Data Acquisition**
 
