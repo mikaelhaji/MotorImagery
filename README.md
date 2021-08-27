@@ -33,7 +33,7 @@ Oftentimes, electrodes are ideally positioned according to the globally recognis
 
 Below are the exact electrode positions used for the study:
 
-![Screen Shot 2021-08-26 at 4.10.01 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd6edce3-f510-4520-afb4-5ba2218efa7e/Screen_Shot_2021-08-26_at_4.10.01_AM.png)
+<img width="692" alt="Screen Shot 2021-07-31 at 11 23 38 PM" src="https://user-images.githubusercontent.com/68840767/131069939-ff01402f-ce9b-4ec2-a222-86ec3b9ed9fb.png">
 
 ## **Experimental Setup and Data Acquisition**
 
