@@ -1,7 +1,5 @@
 # **Abstract**
 
---
-
 One of neuroscience's most important objectives in recent decades has been to rehabilitate people who no longer have a functioning connection between their mind and their body. A brain computer interface (BCI) based on motor imagery can detect the EEG patterns of various imagined motions, such as right or left hand movement. It allows for entirely non-muscular communication.
 
 This is already being done effectively using costly, medical grade EEG gear, but owing to the high cost, it has not yet reached the commercial market. This study tests the performance of low-cost EEG hardware in a BCI, namely OpenBCI's Ultracortex Mark IV, in a proof-of-concept manner. As a result, we used state of the art feature extraction and categorization techniques. Using CSP for feature extraction and LDA as classifier, our algorithms are by far, better than some of the most recent BCI competitions, reaching over 78% accuracy in a 2-class BCI compared to a chance level of 50%.
