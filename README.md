@@ -6,8 +6,6 @@ This is already being done effectively using costly, medical grade EEG gear, but
 
 # **Introduction**
 
----
-
 BCIs are communication systems that seek to provide people with an alternative control input to computers. Changes in brain signal modulation are detected by BCIs and translated into control instructions. Electroencephalography (EEG) is now used as the primary acquisition technique for BCI. The obtained EEG signal is a macroscopic assessment of neuronal activity in the brain, which is mediated by a layer of bone, tissue, and fluid. As a result, EEG has poor spatial resolution, and the signal collection through surface electrodes makes EEG vulnerable to interference from a number of sources, including bodily movement, power line noise, and other electronic equipment.
 
 Despite the increasing attention that BCI technology has received with the introduction of low-cost commercial EEG devices in recent years, BCIs are seldom utilised outside of the laboratory setting. This is mostly because existing BCI systems lack reliability and performance when compared to other kinds of interfaces. MI-BCI, for example, requires lengthy training trials each session, and the parameters are subject-specific. As a result, these lengthy and repeated training sessions may cause user fatigue and deterioration in performance over time. Furthermore, extended training is difficult in producing EEG oscillatory rhythms regulated during MI, such as mu (μ) and beta (β). To address these problems, previous BCI research has looked at different methods for developing novel experimental designs, specialised algorithms, and signal processing techniques that reduce the existing limits of EEG-based BCIs.
@@ -17,8 +15,6 @@ Despite the increasing attention that BCI technology has received with the intro
 In this study, we effectively analyze and evaluate different classification methods using the uniform feature extraction technique known as common spatial patterns. The primary contribution is an exhaustive evaluation of the scope of low cost EEG hardware for the design of a Motor Imagery Based Brain-Computer-Interface System. The paper touches on every part of the BCI system in order to make it super transferable.
 
 # **Methodology**
-
----
 
 This section provides an overview of the study's methodology. The aim is to assess the efficacy of low-cost EEG devices for BCI applications. Many variables influence its performance. To compare the performance of the EEG hardware with other EEG gear, we must have similar performance in the other stages.
 
@@ -52,8 +48,6 @@ The aim of this research is to develop a proof-of-concept for a 2-class BCI, whi
 The participants sat comfortably in a chair with armrests in front of a computer screen. At the start of a trial (t = 0s), a cue in the shape of a text symbolising hand / feet appeared and was printed 5 times, each signifying 2 seconds. During this period, participants were instructed to complete the necessary motor imaging task until the next cue occurred at t = 10s. During the recording, no feedback was given.
 
 # **EEG Processing**
-
----
 
 The EEG processing for a BCI provides a plethora of paradigms from which to select. They all have benefits and drawbacks, such as varying computational and mathematical complexity, the amount of features produced for signal classification, and the assumptions they make about the underlying data. Preprocessing, feature extraction, and classification are the three stages of EEG processing.
 
@@ -114,7 +108,5 @@ Using Linear Discriminant analysis on the data acquired, we were able to achieve
 Many additional machine learning techniques were employed in addition to LDA. One of them is the Support Vector Machine (SVM). SVM makes use of a hyperplane to optimise the minimum margin between two classes. Kernels may be used to modify the distribution of data and assist in dealing with a nonlinear feature space. All of these classifiers are better suited to various kinds of data, and a comparison will reveal which classifier is best suited to our feature space.
 
 # **Results**
-
----
 
 This section presents the results of previously improved feature extraction and classification methods applied to our own data. There were two kinds of motor images that needed to be distinguished. Our approach's classification accuracies are shown. There are many machine learning methods available for classification. In this part, we evaluate the performance of some of the most popular methods on all of the data from the contests to determine which approach best matches the data. As previously stated, the feature vectors are created using CSP, thus each classifier receives precisely the same input. Prior to categorization, the feature vectors were normalised.
