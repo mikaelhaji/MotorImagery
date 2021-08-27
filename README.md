@@ -18,6 +18,7 @@ Despite the increasing attention that BCI technology has received with the intro
 
 In this study, we effectively analyze and evaluate different classification methods using the uniform feature extraction technique known as common spatial patterns. The primary contribution is an exhaustive evaluation of the scope of low cost EEG hardware for the design of a Motor Imagery Based Brain-Computer-Interface System. The paper touches on every part of the BCI system in order to make it super transferable.
 
+
 # **Methodology**
 
 This section provides an overview of the study's methodology. The aim is to assess the efficacy of low-cost EEG devices for BCI applications. Many variables influence its performance. To compare the performance of the EEG hardware with other EEG gear, we must have similar performance in the other stages.
@@ -119,4 +120,9 @@ This section presents the results of previously improved feature extraction and 
 
 
 <img width="1000" alt="Screen Shot 2021-08-27 at 12 08 47 AM" src="https://user-images.githubusercontent.com/68840767/131070423-3cf628dd-2817-49a2-bf71-c7803a3585ab.png">
+
+# **Video Demo**
+
+https://user-images.githubusercontent.com/68840767/131071260-b855207e-9194-497f-bbb6-18d06d7807cf.mp4
+
 
