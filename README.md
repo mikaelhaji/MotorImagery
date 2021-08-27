@@ -116,3 +116,7 @@ Many additional machine learning techniques were employed in addition to LDA. On
 # **Results**
 
 This section presents the results of previously improved feature extraction and classification methods applied to our own data. There were two kinds of motor images that needed to be distinguished. Our approach's classification accuracies are shown. There are many machine learning methods available for classification. In this part, we evaluate the performance of some of the most popular methods on all of the data from the contests to determine which approach best matches the data. As previously stated, the feature vectors are created using CSP, thus each classifier receives precisely the same input. Prior to categorization, the feature vectors were normalised.
+
+
+<img width="1000" alt="Screen Shot 2021-08-27 at 12 08 47 AM" src="https://user-images.githubusercontent.com/68840767/131070423-3cf628dd-2817-49a2-bf71-c7803a3585ab.png">
+
