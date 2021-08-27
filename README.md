@@ -1,6 +1,6 @@
 # **Abstract**
 
----
+--
 
 One of neuroscience's most important objectives in recent decades has been to rehabilitate people who no longer have a functioning connection between their mind and their body. A brain computer interface (BCI) based on motor imagery can detect the EEG patterns of various imagined motions, such as right or left hand movement. It allows for entirely non-muscular communication.
 
